@@ -1,20 +1,72 @@
-<h1 align="center">Hi 👋, I'm John Neilssien</h1>
-<h3 align="center">Systems Engineer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jneilssien&label=Profile%20views&color=0e75b6&style=flat" alt="jneilssien" /> </p>
-
-- 📫 How to reach me **github@neilssien.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/john-neilssien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="john-neilssien" height="30" width="40" /></a>
+<!-- Banner for John Neilssien -->
+<p align="center">
+  <a href="https://github.com/jneilssien">
+    <!-- Replace with your custom banner URL or remove entirely if not needed -->
+    <img src="YOUR_BANNER_URL" alt="John Neilssien" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<!-- Typing SVG (Done) -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=8470D8&center=true&vCenter=true&width=440&height=45&lines=Systems+Engineer;Always+Learning" 
+      alt="Typing SVG" 
+    />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jneilssien&show_icons=true&locale=en&layout=compact" alt="jneilssien" /></p>
+<!-- Visitors Badge -->
+<p align="center">
+  <img 
+    src="https://komarev.com/ghpvc/?username=jneilssien&label=Profile+Views&color=8470D8&style=flat"
+    alt="Profile Views" 
+  />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jneilssien&show_icons=true&locale=en" alt="jneilssien" /></p>
+<details>
+  <summary><h2>📊 Stats and Activity</h2></summary>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jneilssien&" alt="jneilssien" /></p>
+  <!-- Streak Stats -->
+  <h3>🔥 Streak Stats</h3>
+  <p>
+    <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+      <img 
+        alt="Streak Stats" 
+        src="https://github-readme-streak-stats.herokuapp.com?user=jneilssien&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=888" 
+      />
+    </a>
+  </p>
+
+  <!-- GitHub Profile Stats -->
+  <h3>💻 GitHub Profile Stats</h3>
+  <p>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img 
+        alt="GitHub Stats" 
+        src="https://github-readme-stats.vercel.app/api?username=jneilssien&show_icons=true&theme=react&hide_border=true" 
+        height="192px"
+      />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img 
+        alt="Top Languages" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jneilssien&langs_count=8&layout=compact&theme=react&hide_border=true" 
+        height="192px"
+      />
+    </a>
+  </p>
+  <br />
+
+  <b>Note:</b> Top languages is only a metric of the languages in your public code and doesn't reflect experience or skill level.
+
+  <!-- GitHub Activity Graph -->
+  <p>
+    <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+      <img 
+        alt="Activity Graph" 
+        src="https://github-readme-activity-graph.cyclic.app/graph?username=jneilssien&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" 
+      />
+    </a>
+  </p>
+</details>
