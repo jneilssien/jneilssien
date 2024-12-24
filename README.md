@@ -31,8 +31,8 @@
 <p align="center">
   <!-- Updated domain to demolab.com -->
   <img 
-    alt="Streak Stats" 
-    src="https://github-readme-streak-stats.demolab.com?user=jneilssien&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=888" 
+    src="https://streak-stats.demolab.com?user=jneilssien&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=888"
+    alt="Streak Stats"
   />
 </p>
 
