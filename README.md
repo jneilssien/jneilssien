@@ -2,8 +2,8 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=8470D8&center=true&vCenter=true&width=600&height=60&lines=John+Neilssien" 
-      alt="John Neilssien" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=1&pause=1000&color=8470D8&center=true&vCenter=true&repeat=false&width=440&height=45&lines=John+Neilssien" 
+      alt="Typing SVG" 
     />
   </a>
 </p>
@@ -29,7 +29,7 @@
 <!-- Streak Stats -->
 <h3 align="center">🔥 Streak Stats</h3>
 <p align="center">
-  <!-- Updated domain (demolab.com) -->
+  <!-- Updated domain to demolab.com -->
   <img 
     alt="Streak Stats" 
     src="https://github-readme-streak-stats.demolab.com?user=jneilssien&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=888" 
