@@ -26,17 +26,15 @@
   />
 </p>
 
-<!-- Streak Stats -->
+<!--
 <h3 align="center">🔥 Streak Stats</h3>
 <p align="center">
-  <!-- Updated domain to demolab.com -->
   <img 
     src="https://streak-stats.demolab.com?user=jneilssien&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=888"
     alt="Streak Stats"
   />
 </p>
 
-<!-- GitHub Profile Stats -->
 <h3 align="center">💻 GitHub Profile Stats</h3>
 <p align="center">
   <img 
@@ -51,12 +49,11 @@
   />
 </p>
 
-<!-- Activity Graph -->
 <h3 align="center">📈 GitHub Activity Graph</h3>
 <p align="center">
-  <!-- Use vercel.app domain to reduce issues -->
   <img 
     alt="Activity Graph" 
     src="https://github-readme-activity-graph.vercel.app/graph?username=jneilssien&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" 
   />
 </p>
+-->
