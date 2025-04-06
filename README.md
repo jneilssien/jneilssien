@@ -19,7 +19,9 @@
 </p>
 
 <!-- Profile Views Badge -->
-![Visitor Count](https://gpvc.arturio.dev/jneilssien)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jneilssien&label=Profile+Views&color=8470D8&style=flat" alt="Profile Views"/>
+</p>
 
 ---
 
