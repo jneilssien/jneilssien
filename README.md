@@ -19,9 +19,7 @@
 </p>
 
 <!-- Profile Views Badge -->
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jneilssien.jneilssien&left_color=353B61&right_color=8470D8" alt="Profile Views"/>
-</p>
+![Visitor Count](https://gpvc.arturio.dev/jneilssien)
 
 ---
 
