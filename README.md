@@ -18,29 +18,31 @@
   </a>
 </p>
 
-<!-- Profile Views Badge (Custom Purple Theme) -->
+<!-- Profile Views Badge -->
 <p align="center">
-  <img 
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjneilssien%2F&count_bg=%238470D8&title_bg=%23353B61&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" 
-    alt="Profile Views" 
-  />
+  <a href="https://hits.seeyoufarm.com">
+    <img 
+      src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjneilssien&count_bg=%238470D8&title_bg=%23353B61&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" 
+      alt="Profile Views" 
+    />
+  </a>
 </p>
 
-<!-- GitHub Stats: Only displaying key stats (e.g., commits & PRs merged) -->
+---
+
 ## GitHub Stats
 
 <p align="center">
-  <img 
-    alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=jneilssien&show_icons=true&hide=stars,issues&theme=react&hide_border=true&count_private=true" 
+  <img
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=jneilssien&show_icons=true&hide=stars,issues&count_private=true&include_all_commits=true&title_color=8470D8&text_color=FFFFFF&icon_color=8470D8&bg_color=1F222E&hide_border=true"
   />
 </p>
 
-<!-- About Me Section -->
+---
+
 ## About Me
 
-- 🏢 **Solutions Architect** dedicated to building scalable, secure, and high-performing systems.
-- 🤖 **Automation Specialist** passionate about streamlining workflows and integrating DevOps practices.
+- 🏢 **Solutions Architect** dedicated to building scalable, secure, and high-performing systems.  
+- 🤖 **Automation Specialist** passionate about streamlining workflows and integrating DevOps practices.  
 - 🌱 Always exploring and learning the latest in technology.
-
-<!-- Feel free to add more sections or customize further! -->
