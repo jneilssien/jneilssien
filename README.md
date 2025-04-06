@@ -18,42 +18,29 @@
   </a>
 </p>
 
-<!-- Visitors Badge -->
+<!-- Profile Views Badge (Custom Purple Theme) -->
 <p align="center">
   <img 
-    src="https://komarev.com/ghpvc/?username=jneilssien&label=Profile+Views&color=8470D8&style=flat"
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjneilssien%2F&count_bg=%238470D8&title_bg=%23353B61&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" 
     alt="Profile Views" 
   />
 </p>
 
-<!--
-<h3 align="center">🔥 Streak Stats</h3>
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=jneilssien&theme=monokai-metallian&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=888"
-    alt="Streak Stats"
-  />
-</p>
+<!-- GitHub Stats: Only displaying key stats (e.g., commits & PRs merged) -->
+## GitHub Stats
 
-<h3 align="center">💻 GitHub Profile Stats</h3>
 <p align="center">
   <img 
     alt="GitHub Stats" 
-    src="https://github-readme-stats.vercel.app/api?username=jneilssien&show_icons=true&theme=react&hide_border=true" 
-    height="192px"
-  />
-  <img 
-    alt="Top Languages" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jneilssien&langs_count=8&layout=compact&theme=react&hide_border=true" 
-    height="192px"
+    src="https://github-readme-stats.vercel.app/api?username=jneilssien&show_icons=true&hide=stars,issues&theme=react&hide_border=true&count_private=true" 
   />
 </p>
 
-<h3 align="center">📈 GitHub Activity Graph</h3>
-<p align="center">
-  <img 
-    alt="Activity Graph" 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=jneilssien&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" 
-  />
-</p>
--->
+<!-- About Me Section -->
+## About Me
+
+- 🏢 **Solutions Architect** dedicated to building scalable, secure, and high-performing systems.
+- 🤖 **Automation Specialist** passionate about streamlining workflows and integrating DevOps practices.
+- 🌱 Always exploring and learning the latest in technology.
+
+<!-- Feel free to add more sections or customize further! -->
