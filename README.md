@@ -20,7 +20,7 @@
 
 <!-- Profile Views Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jneilssien&label=Profile+Views&color=8470D8&labelColor=8470D8&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jneilssien&label=Profile+Views&color=8470D8&style=flat" alt="Profile Views"/>
 </p>
 
 ---
