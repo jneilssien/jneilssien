@@ -24,7 +24,7 @@
 </p>
 
 ---
-
+<!--
 ## GitHub Stats
 
 <p align="center">
@@ -34,7 +34,7 @@
   />
 </p>
 
----
+--->
 
 ## About Me
 
