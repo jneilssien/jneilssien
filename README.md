@@ -38,13 +38,7 @@
 
 ## About Me
 
-- 🏢 **Solutions Architect** dedicated to building scalable, secure, and high-performing systems.  
-- 🤖 **Automation Specialist** passionate about streamlining workflows and integrating DevOps practices.  
-- 🌱 Always exploring and learning the latest in technology.
-
-## About Me
-
 - 💼 **Solutions Architect** — designing and delivering scalable, secure, high-performance systems.  
-- ⚙️ **Automation Specialist** — building DevOps pipelines and automating complex workflows.  
-- 🚀 **Lifelong Learner** — constantly exploring emerging tech to stay ahead of the curve.  
-- 🧠 **Problem Solver** — thriving on tackling tough challenges and driving innovation.
+- 🤖 **Automation Specialist** — passionate about streamlining workflows and building robust automation solutions.  
+- 🚀 **Lifelong Learner** — constantly exploring and mastering emerging technologies.  
+- 🧠 **Problem Solver** — tackling complex challenges to drive innovation.
